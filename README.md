@@ -17,6 +17,6 @@ You will need Docker and a pulled [Splash image](https://splash.readthedocs.io/e
 
 Python 2.7 Dependencies: 
 ```
-Scrapy                  1.6.0
+Scrapy              1.6.0
 scrapy-splash       0.7.2
 ```
